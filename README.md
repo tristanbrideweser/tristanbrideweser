@@ -8,7 +8,7 @@ My name is Tristan Brideweser, and I'm a dual masters student studying Interdisc
 - I'm currently working on [**`bionic-reading-ar`**](https://github.com/tristanbrideweser/bionic-reading-ar), a project to detect text and "bionify", or adjust the focal range, for a reader to enhance reading speed and comprehension
 - I'm also developing [**`scan-urdf`**](https://github.com/tristanbrideweser/scan-urdf), a project to scan robotic systems and recreate them virtually for simulation without having to create URDF files manually.
 
-<!--
+<!---
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
 # 📊 GitHub Stats:
@@ -17,4 +17,4 @@ My name is Tristan Brideweser, and I'm a dual masters student studying Interdisc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tristanbrideweser&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-profile-trophy.vercel.app/?username=tristanbrideweser&theme=prussian&no-frame=false&no-bg=false&margin-w=4)
--->
+--->
