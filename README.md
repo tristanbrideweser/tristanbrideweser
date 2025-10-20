@@ -3,6 +3,24 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tristan-brideweser) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tristan.brideweser@gmail.com) 
 # `Hello World`
+```python
+def about_me(human):
+  def __init__(self):
+    super().__init__()
+
+    self.name = "tristan brideweser"
+    self.role = "student
+    self.education = {
+      "purdue university": 
+      {"bachelor": ["data science", "applied statistics", "m. design & innovation"]
+        "master": ["interdisciplinary engineering/robotics", "business and technology"]
+      }
+    }
+
+    self.interests = ["robotics", "autonomy", "consulting", "development", "interdisciplinary cooperation"]
+    
+```
+
 My name is Tristan Brideweser, and I'm a dual masters student studying **Interdisciplinary Engineering/Robotics (MSE)** and **Business & Technology (MBT)**. During my undergrad, I studied **Data Science**, **Applied Statistics**, and minored in **Design & Innovation**, where I applied my technical expertise to design, prototype, and outline a business to solve real world problems. 
 
 Autonomous robotics and intelligent systems are my paramount interests. I've learned to work with both Fanuc and Yamaha systems, and to utilize ROS2.
@@ -11,7 +29,7 @@ To further my knowledge and gain hands-on experience, I'm working on a number of
 
 - I'm currently working on [**`bionic-reading-ar`**](https://github.com/tristanbrideweser/bionic-reading-ar), a project to detect text and "bionify", or adjust the focal range, for a reader to enhance reading speed and comprehension
 - I'm also developing [**`scan-urdf`**](https://github.com/tristanbrideweser/scan-urdf), a project to scan robotic systems and recreate them virtually for simulation without having to create URDF files manually.
-- I'm building [**lazyros-cli**](https://github.com/tristan-brideweser/lazyros-cli), a project to create a command line interface that provides statistics and visualizations for ROS2 developers, including integration with Git workflow.
+- I'm building [**`lazyros-cli`**](https://github.com/tristan-brideweser/lazyros-cli), a project to create a command line interface that provides statistics and visualizations for ROS2 developers, including integration with Git workflow.
 
 <!---
 # 💻 Tech Stack:
