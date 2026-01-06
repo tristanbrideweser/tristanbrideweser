@@ -10,11 +10,11 @@
 
 ## Languages + Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
 
 ## Projects
-- LazyROS
-- Scan-URDF
+`lazyros`: A simple TUI for ROS2 inspired by lazygit, built with Rust 
 
 ## Spring 2026 Courses
 - ✈️ Multi-Agent Autonomy & Control 
