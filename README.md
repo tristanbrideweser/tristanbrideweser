@@ -14,7 +14,7 @@
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
 
 ## Projects
-`lazyros`: A simple TUI for ROS2 inspired by lazygit, built with Rust 
+`Horizon`: A simple TUI for ROS2 inspired by lazygit, built with Rust 
 
 ## Spring 2026 Courses
 - ✈️ Multi-Agent Autonomy & Control 
