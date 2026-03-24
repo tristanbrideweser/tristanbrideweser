@@ -1,5 +1,4 @@
 # 🤖 Tristan Brideweser
-`Robotics Engineer ∩ Business Strategist`
 `Dual Masters Student (Robotics & Business) @ Purdue University 🚂`
 
 ### 🚀 About Me
@@ -7,7 +6,7 @@ I bridge the gap between complex autonomous systems and business value. Currentl
 
 - 🛠️ **Currently Building:** `Horizon` — A Rust-based TUI for ROS2.
 - 🎓 **Education:** MS Robotics Engineering & Master of Business & Technology @ Purdue.
-- 💼 **Professional:** Lead Technical Researcher at The Data Mine; Former AI Research Intern @ Weslabs.
+- 💼 **Professional:** Lead Technical Researcher in The Data Mine; Former AI Research Intern @ Weslabs.
 - 🎯 **Looking for:** Opportunities in Robotics Engineering, Tech Consulting, and DevOps.
 
 ---
